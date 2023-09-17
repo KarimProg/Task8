@@ -4,7 +4,7 @@ import cv2
 
 # Set dependency paths
 model_path = r'C:\Users\karim\OneDrive\Desktop\Task 8\best.pt'
-media_path = r'C:\Users\karim\OneDrive\Desktop\Task 8\coins002.jpg'
+media_path = r'C:\Users\karim\OneDrive\Desktop\Task 8\coins371.jpg'
 
 # Set model's path
 model = YOLO(model_path)
